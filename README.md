@@ -71,7 +71,7 @@ You can deploy this project instantly with GitHub Pages:
 
 ## 📸 Preview
 
-![Solar System Screenshot](https://raw.githubusercontent.com/your-username/solar-system-sim/main/preview.png)
+![Solar System Screenshot](./assets/Solar_Sytem.png)
 
 ---
 
